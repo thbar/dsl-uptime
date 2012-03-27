@@ -1,3 +1,5 @@
+**pull-requests most welcome**: please share your improvements.
+
 A quick ruby+redis script to monitor DSL disconnections using time series with redis zadd/zrangebyscore.
 
 Tested on Mac OS X with the stock Ruby 1.8.7 Snow Leopard install.
